@@ -1,0 +1,15 @@
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
