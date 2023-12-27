@@ -30,99 +30,109 @@ namespace GeçtimTurizim
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(YetkiliContorlForm));
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txt_KullaniciAdi = new System.Windows.Forms.TextBox();
+            this.txt_Parola = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.Btn_PersonelGiris = new System.Windows.Forms.Button();
             this.beniHatırla = new System.Windows.Forms.CheckBox();
             this.btn_PersonelKayıtTıklayınız = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
+            this.guna2ImageButton1 = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.Btn_PersonelGiris = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txt_KullaniciAdi
             // 
-            this.textBox1.Location = new System.Drawing.Point(155, 77);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 0;
+            this.txt_KullaniciAdi.Location = new System.Drawing.Point(115, 84);
+            this.txt_KullaniciAdi.Name = "txt_KullaniciAdi";
+            this.txt_KullaniciAdi.Size = new System.Drawing.Size(100, 22);
+            this.txt_KullaniciAdi.TabIndex = 0;
             // 
-            // textBox2
+            // txt_Parola
             // 
-            this.textBox2.Location = new System.Drawing.Point(155, 138);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 1;
+            this.txt_Parola.Location = new System.Drawing.Point(115, 145);
+            this.txt_Parola.Name = "txt_Parola";
+            this.txt_Parola.Size = new System.Drawing.Size(100, 22);
+            this.txt_Parola.TabIndex = 1;
+            this.txt_Parola.UseSystemPasswordChar = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(65, 77);
+            this.label1.Location = new System.Drawing.Point(25, 84);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 17);
+            this.label1.Size = new System.Drawing.Size(79, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Kullanıcı Adı";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(65, 141);
+            this.label2.Location = new System.Drawing.Point(25, 148);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 17);
+            this.label2.Size = new System.Drawing.Size(47, 16);
             this.label2.TabIndex = 3;
             this.label2.Text = "Parola";
-            // 
-            // Btn_PersonelGiris
-            // 
-            this.Btn_PersonelGiris.Location = new System.Drawing.Point(155, 197);
-            this.Btn_PersonelGiris.Name = "Btn_PersonelGiris";
-            this.Btn_PersonelGiris.Size = new System.Drawing.Size(82, 28);
-            this.Btn_PersonelGiris.TabIndex = 4;
-            this.Btn_PersonelGiris.Text = "Giriş";
-            this.Btn_PersonelGiris.UseVisualStyleBackColor = true;
             // 
             // beniHatırla
             // 
             this.beniHatırla.AutoSize = true;
-            this.beniHatırla.Location = new System.Drawing.Point(155, 170);
+            this.beniHatırla.Location = new System.Drawing.Point(115, 193);
             this.beniHatırla.Name = "beniHatırla";
-            this.beniHatırla.Size = new System.Drawing.Size(103, 21);
+            this.beniHatırla.Size = new System.Drawing.Size(98, 20);
             this.beniHatırla.TabIndex = 5;
             this.beniHatırla.Text = "Beni Hatırla";
             this.beniHatırla.UseVisualStyleBackColor = true;
             // 
             // btn_PersonelKayıtTıklayınız
             // 
-            this.btn_PersonelKayıtTıklayınız.Location = new System.Drawing.Point(519, 122);
+            this.btn_PersonelKayıtTıklayınız.ImageKey = "(none)";
+            this.btn_PersonelKayıtTıklayınız.Location = new System.Drawing.Point(504, 111);
             this.btn_PersonelKayıtTıklayınız.Name = "btn_PersonelKayıtTıklayınız";
-            this.btn_PersonelKayıtTıklayınız.Size = new System.Drawing.Size(85, 36);
+            this.btn_PersonelKayıtTıklayınız.Size = new System.Drawing.Size(159, 53);
             this.btn_PersonelKayıtTıklayınız.TabIndex = 6;
-            this.btn_PersonelKayıtTıklayınız.Text = "Tıklayınız";
+            this.btn_PersonelKayıtTıklayınız.Text = "Personel Kayıt İçin Tıklayınız";
             this.btn_PersonelKayıtTıklayınız.UseVisualStyleBackColor = true;
             this.btn_PersonelKayıtTıklayınız.Click += new System.EventHandler(this.btn_PersonelKayıtTıklayınız_Click);
             // 
-            // label3
+            // guna2ImageButton1
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(466, 77);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(186, 17);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "Personel Kayıt İçin Tıklayınız";
+            this.guna2ImageButton1.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.guna2ImageButton1.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.guna2ImageButton1.Image = global::GeçtimTurizim.Properties.Resources._3994415_account_avatar_person_profile_user_icon1;
+            this.guna2ImageButton1.ImageOffset = new System.Drawing.Point(0, 0);
+            this.guna2ImageButton1.ImageRotate = 0F;
+            this.guna2ImageButton1.Location = new System.Drawing.Point(287, 0);
+            this.guna2ImageButton1.Name = "guna2ImageButton1";
+            this.guna2ImageButton1.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.guna2ImageButton1.Size = new System.Drawing.Size(107, 75);
+            this.guna2ImageButton1.TabIndex = 7;
+            // 
+            // Btn_PersonelGiris
+            // 
+            this.Btn_PersonelGiris.BackgroundImage = global::GeçtimTurizim.Properties.Resources.denem1;
+            this.Btn_PersonelGiris.ForeColor = System.Drawing.Color.Lime;
+            this.Btn_PersonelGiris.Location = new System.Drawing.Point(93, 245);
+            this.Btn_PersonelGiris.Name = "Btn_PersonelGiris";
+            this.Btn_PersonelGiris.Size = new System.Drawing.Size(122, 33);
+            this.Btn_PersonelGiris.TabIndex = 4;
+            this.Btn_PersonelGiris.Text = "Giriş";
+            this.Btn_PersonelGiris.UseVisualStyleBackColor = true;
+            this.Btn_PersonelGiris.Click += new System.EventHandler(this.btn_PersonelGiris_Click);
             // 
             // YetkiliContorlForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(693, 377);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.guna2ImageButton1);
             this.Controls.Add(this.btn_PersonelKayıtTıklayınız);
             this.Controls.Add(this.beniHatırla);
             this.Controls.Add(this.Btn_PersonelGiris);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_Parola);
+            this.Controls.Add(this.txt_KullaniciAdi);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "YetkiliContorlForm";
             this.Text = "Personel Giriş";
@@ -134,13 +144,13 @@ namespace GeçtimTurizim
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txt_KullaniciAdi;
+        private System.Windows.Forms.TextBox txt_Parola;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button Btn_PersonelGiris;
         private System.Windows.Forms.CheckBox beniHatırla;
         private System.Windows.Forms.Button btn_PersonelKayıtTıklayınız;
-        private System.Windows.Forms.Label label3;
+        private Guna.UI2.WinForms.Guna2ImageButton guna2ImageButton1;
     }
 }

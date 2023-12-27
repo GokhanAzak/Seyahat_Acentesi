@@ -119,7 +119,8 @@ namespace GeçtimTurizim
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(490, 356);
+            this.BackColor = System.Drawing.Color.Yellow;
+            this.ClientSize = new System.Drawing.Size(484, 356);
             this.Controls.Add(this.text_personelKayıtSifre);
             this.Controls.Add(this.txt_personelgorev);
             this.Controls.Add(this.txt_personelkayıtSoyisim);
@@ -129,6 +130,7 @@ namespace GeçtimTurizim
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_personelKayıt);
+            this.ForeColor = System.Drawing.SystemColors.Desktop;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PersonelKayıt";
             this.Text = "PersonelKayıt";

@@ -33,8 +33,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.6.3.0\lib\net452\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.6.3.0\lib\net452\Bunifu.UI.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +75,12 @@
     </Compile>
     <Compile Include="Bilet.Designer.cs">
       <DependentUpon>Bilet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BiletAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletAl.Designer.cs">
+      <DependentUpon>BiletAl.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -82,6 +112,12 @@
       <DependentUpon>ProjeDataSet1.xsd</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeferIslemlerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeferIslemlerForm.Designer.cs">
+      <DependentUpon>SeferIslemlerForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="YetkiliContorlForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +126,9 @@
     </Compile>
     <EmbeddedResource Include="Bilet.resx">
       <DependentUpon>Bilet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BiletAl.resx">
+      <DependentUpon>BiletAl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -110,9 +149,13 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SeferIslemlerForm.resx">
+      <DependentUpon>SeferIslemlerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="YetkiliContorlForm.resx">
       <DependentUpon>YetkiliContorlForm.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="ProjeDataSet.xsc">
       <DependentUpon>ProjeDataSet.xsd</DependentUpon>
     </None>
@@ -153,6 +196,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\deeme2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otobüs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle idnir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delteee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delteee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaldır.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71064_garbage_trash_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2931168_bin_delete_remove_trash_garbage_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9110400_refresh_reverse_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6217199_bus_coronavirus_prohibited_travel_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\134144_bus_transportation_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3994415_account_avatar_person_profile_user_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3994415_account_avatar_person_profile_user_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1156750_finance_mastercard_payment_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1156750_finance_mastercard_payment_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1156753_finance_payment_visa_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1156710_bitcoin_finance_payment_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7067451_cash_wallet_payment_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4634986_moneys_financial_layers_money_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2638334_banking_coin_finance_finger_holding_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

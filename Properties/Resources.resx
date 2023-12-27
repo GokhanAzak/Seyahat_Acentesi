@@ -118,10 +118,73 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="deeme2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deeme2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1156753_finance_payment_visa_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1156753_finance_payment_visa_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2931168_bin_delete_remove_trash_garbage_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2931168_bin_delete_remove_trash_garbage_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ekle idnir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ekle idnir.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1156750_finance_mastercard_payment_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1156750_finance_mastercard_payment_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9110400_refresh_reverse_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9110400_refresh_reverse_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ekle image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ekle image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3994415_account_avatar_person_profile_user_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3994415_account_avatar_person_profile_user_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kaldır" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kaldır.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delteee1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delteee1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71064_garbage_trash_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71064_garbage_trash_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1156710_bitcoin_finance_payment_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1156710_bitcoin_finance_payment_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4634986_moneys_financial_layers_money_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4634986_moneys_financial_layers_money_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delteee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delteee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1156750_finance_mastercard_payment_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1156750_finance_mastercard_payment_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otobüs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otobüs.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="134144_bus_transportation_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\134144_bus_transportation_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7067451_cash_wallet_payment_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7067451_cash_wallet_payment_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="denem1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\denem1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="deeme2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\deeme2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="6217199_bus_coronavirus_prohibited_travel_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6217199_bus_coronavirus_prohibited_travel_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3994415_account_avatar_person_profile_user_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3994415_account_avatar_person_profile_user_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sil.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2638334_banking_coin_finance_finger_holding_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2638334_banking_coin_finance_finger_holding_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

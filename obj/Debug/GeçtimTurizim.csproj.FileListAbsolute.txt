@@ -13,3 +13,126 @@ C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.res
 C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
 C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
 C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\PROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\PROJE - Kopya (2)\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\LiveCharts.dll
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\MetroFramework.Design.dll
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\MetroFramework.dll
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\LiveCharts.pdb
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\bin\Debug\LiveCharts.xml
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CopyComplete
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.dll
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.Design.dll
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.dll
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.xml
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CopyComplete
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12 - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\Bunifu.Licensing.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\Guna.UI2.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.Design.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.pdb
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\bin\Debug\LiveCharts.xml
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CopyComplete
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\25.12 - Kopya - Kopya\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe.config
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\GeçtimTurizim.pdb
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\Bunifu.Licensing.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\Guna.UI2.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\LiveCharts.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\MetroFramework.Design.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\MetroFramework.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\LiveCharts.pdb
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\bin\Debug\LiveCharts.xml
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.AssemblyReference.cache
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Btn_BiletAra.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.BiletAl.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.AnaSayfaForm.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Musteri.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.PersonelKayıt.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.Properties.Resources.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.SeferIslemlerForm.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.YetkiliContorlForm.resources
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.GenerateResource.cache
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CoreCompileInputs.cache
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.csproj.CopyComplete
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.exe
+C:\Users\azakg\Desktop\ANAPROJE\GeçtimTurizim\obj\Debug\GeçtimTurizim.pdb
